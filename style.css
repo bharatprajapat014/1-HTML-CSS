@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+}
+
+.h3 {
+    color: rgb(255, 255, 255);
+}
+
+.navbar ul {
+    display: flex;
+    float: right;
+    height: 5%;
+}
+
+.navbar ul li {
+    color: aliceblue;
+    text-decoration: overline;
+    display: block;
+    padding: 5px 20px;
+    margin: -66px 22px;
+}
+
+.con {
+    color: aliceblue;
+    padding: 150px 20px;
+    margin: 20px 20px;
+}
+
+.con h1 {
+    font-size: 3.6em;
+}
+
+.box {
+    width: 132px;
+    height: 29px;
+    box-sizing: content-box;
+    border-radius: 2px;
+    border: 6px white solid;
+}
+
+.con2 {
+    color: white;
+    float: right;
+    padding: 2px 20px;
+    margin: -482px -40px;
+}
+
+.con2 img {
+    border: 2px white solid;
+    width: 346px;
+    height: 311px;
+    object-fit: contain;
+    margin: -11px -8px;
+    padding: 49px 5px;
+}
+
+.box2 {
+    color: white;
+    text-align: center;
+    border: 8px solid rgb(185, 185, 185);
+    width: 240px;
+    height: 33px;
+    float: right;
+    bottom: 20px;
+}
